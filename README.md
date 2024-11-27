@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Banner" width="100%" />
+  <img src="1695763694239.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ubaid Raza 👋</h1>
